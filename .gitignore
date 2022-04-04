@@ -11,6 +11,12 @@
 # production
 /build
 
+#testing
+/tester
+
+#In-progress
+/src/io/handleResults.js
+
 # misc
 .DS_Store
 .env.local

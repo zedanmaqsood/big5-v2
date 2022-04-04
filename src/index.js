@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'tachyons';
+
 import './index.css';
-import App from './App';
+import App from './containers/App';
 import reportWebVitals from './reportWebVitals';
+
+// For Testing API
+// import ApiTester from './ApiTester'
+
 
 ReactDOM.render(
   <React.StrictMode>
