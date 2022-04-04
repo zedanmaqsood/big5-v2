@@ -3,5 +3,5 @@ This project is a reimplementation of [big5V1](https://github.com/monkie80i/big5
 
 ## Collaborators
 
-###[@Shahzan Sadick](https://github.com/monkie80i)
-###[@Zedan Maqsood](https://github.com/zedanmaqsood)
+- ### [Shahzan Sadick](https://github.com/monkie80i)
+- ### [Zedan Maqsood](https://github.com/zedanmaqsood)
